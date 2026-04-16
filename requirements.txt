@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-openai
+langchain-community
+chromadb
+python-dotenv
+openai
+tiktoken
+altair
+networkx
+pyvis
+langchain-core
+langchain-community
