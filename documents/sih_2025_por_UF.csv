@@ -1,0 +1,38 @@
+ Morbidade Hospitalar do SUS - por local de internação - Brasil
+Dias permanênciaMédia permanênciaÓbitosTaxa mortalidade por Unidade da Federação
+Lista Morb  CID-10: Dengue [dengue clásssico], Febre hemorrágica devida ao vírus da dengue
+Período:2025
+"Unidade da Federação";"Dias_permanência";"Média_permanência";"Óbitos";"Taxa_mortalidade"
+"11 Rondônia";1113;3,0;2;0,53
+"12 Acre";2489;4,3;4;0,69
+"13 Amazonas";638;3,1;2;0,96
+"14 Roraima";163;6,3;-;-
+"15 Pará";12275;3,3;37;0,98
+"16 Amapá";1689;4,3;4;1,03
+"17 Tocantins";1457;3,3;5;1,13
+"21 Maranhão";4101;3,3;10;0,82
+"22 Piauí";2730;3,5;6;0,76
+"23 Ceará";3952;3,3;4;0,33
+"24 Rio Grande do Norte";1018;3,8;7;2,58
+"25 Paraíba";1485;3,8;4;1,03
+"26 Pernambuco";5938;3,7;10;0,62
+"27 Alagoas";1009;4,6;10;4,57
+"28 Sergipe";682;3,9;3;1,69
+"29 Bahia";9771;3,3;31;1,05
+"31 Minas Gerais";29286;3,0;115;1,18
+"32 Espírito Santo";2154;3,4;5;0,80
+"33 Rio de Janeiro";5208;4,4;31;2,63
+"35 São Paulo";83603;3,3;548;2,18
+"41 Paraná";24453;2,7;64;0,70
+"42 Santa Catarina";4656;3,4;16;1,18
+"43 Rio Grande do Sul";5874;4,1;26;1,82
+"50 Mato Grosso do Sul";5655;3,1;14;0,77
+"51 Mato Grosso";6844;3,3;17;0,81
+"52 Goiás";19433;3,0;84;1,29
+"53 Distrito Federal";739;4,0;7;3,83
+"Total";238415;3,2;1066;1,44
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a atualização.
+ 
